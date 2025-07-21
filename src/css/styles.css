@@ -9,8 +9,5 @@
 @import url('./base.css');
 @import url('./container.css');
 @import url('./main.css');
-
-/* Sections style */
-@import url('./1-timer.css');
-@import url('./2-snackbar.css');
+@import url('./loader.css');
 
